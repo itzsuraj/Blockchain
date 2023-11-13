@@ -1,8 +1,8 @@
 const MINE_RATE = 1000;
-const INITIAL_DIFFICULTY = 4;
+const INITIAL_DIFFICULTY = 1;
 
 const GENSIS_DATA = {
-    timestamp:Date.now(),
+    timestamp:1,
     prevhash:null,
     hash:'0xc123456',
     nonce: 0,
